@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/SnmpEQUIPAMENTO.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tela_Cliente.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tela_Link.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tela_Vlan.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validaUser.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../TCC/SnmpEQUIPAMENTO.php" charset="UTF-8" />
+  </component>
+</project>
+
